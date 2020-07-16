@@ -1,0 +1,28 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Portfolio Generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walker-Walker/portfolio-generator.git"
+  },
+  "keywords": [
+    "porfolio",
+    "generator",
+    "node",
+    "javascript"
+  ],
+  "author": "Walker-Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Walker-Walker/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Walker-Walker/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.2"
+  }
+}
